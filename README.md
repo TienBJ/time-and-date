@@ -1,6 +1,5 @@
 # Demo Digital Clock Pro
 
 ### Tech Stack
-- HTML
-- CSS
+- HTML&CSS
 - JavaScript
